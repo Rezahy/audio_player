@@ -1,6 +1,6 @@
 # audio_player_app
 
-<img src="assets/screenshots/screenshot-1.png"/>
+<img src="assets/screenshots/screenshot-1.png" width="300"/>
 
 ## Getting Started
 
